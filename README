@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4571
+
+rel-jump.vim turns [count]j and [count]k motions into jumps. This way
+you'll be able to jump back to the previous line by using <C-o>, which is
+very handy in conjunction with Vim's relativenumber option.
+
+Project page: http://github.com/buztard/vim-rel-jump
